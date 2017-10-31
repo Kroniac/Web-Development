@@ -1,0 +1,1 @@
+My first react app. Importing a simple function to main App.js adding css exporting newly created function to App.js. Rendering all.
