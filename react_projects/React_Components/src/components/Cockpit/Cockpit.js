@@ -20,11 +20,11 @@ const Cockpit = props => {
     <div className={cass.Cockpit}>
       <br />
       <br />
+      <h1>{props.title} </h1>
       <button className={btnClass} onClick={props.clicked}>
         Show Details
       </button>
 
-      <h1>Hellooooooooooooo </h1>
       <p className={classes.join(" ")}>Look, I'm changing!!</p>
     </div>
   );
