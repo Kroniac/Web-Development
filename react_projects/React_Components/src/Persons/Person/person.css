@@ -1,0 +1,14 @@
+.person {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 60%;
+    padding: 20px;
+  }
+
+  @media (min-width: 500px){
+    .person{
+      width : 350px;
+    }
+  }
